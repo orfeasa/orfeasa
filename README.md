@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🎄 In December I enjoy trying to solve the [Advent of Code](https://adventofcode.com/) challenges. You can find my solutions for 2020 [here](https://github.com/orfeasa/advent-of-code-2020).
+- 🔭 I’m currently working at Thought Machine as a Backend Engineer, working on their cloud-native core banking platform
 - 🌱 I’m currently learning Go, before that my main focus was Python and Django programming
-- 🔭 I’m currently working at Thought Machine as a Backend Engineer, working on their cloud-native core banking platform.
+- 🎄 In December I enjoy trying to solve the [Advent of Code](https://adventofcode.com/) challenges. You can find my solutions for 2020 [here](https://github.com/orfeasa/advent-of-code-2020)
 
 
 <!--
