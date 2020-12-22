@@ -1,4 +1,5 @@
-### Hi there 👋
+![Hi 👋, I'm Orfeas](https://raw.githubusercontent.com/orfeasa/orfeasa/master/header.png)
+
 
 - 🔭 I'm working at Thought Machine as a Backend Engineer, on our cloud-native core banking platform
 - 🌱 Currently learning Go, before that my main focus was Python and Django programming
