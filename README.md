@@ -1,9 +1,8 @@
 ![Hi 👋, I'm Orfeas](https://raw.githubusercontent.com/orfeasa/orfeasa/master/header.png)
 
 
-- 🔭 I'm working at Thought Machine as a Backend Engineer, on our cloud-native core banking platform
-- 🌱 Currently learning Go, before that my main focus was Python and Django programming
-- 🎄 In December I enjoy trying to solve the [Advent of Code](https://adventofcode.com/) challenges. You can find my solutions for 2020 [here](https://github.com/orfeasa/advent-of-code-2020)
+- 🔭 I'm working at Thought Machine as a Backend Engineer, on our cloud-native core banking platform building Internal Applications
+- 🎄 In December I enjoy trying to solve the [Advent of Code](https://adventofcode.com/) challenges. You can find my solutions for 2020 (in Go) [here](https://github.com/orfeasa/advent-of-code-2020) and for 2021 (in Python) [here](https://github.com/orfeasa/advent-of-code-2021)
 
 
 <!--
