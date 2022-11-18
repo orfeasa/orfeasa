@@ -2,7 +2,10 @@
 
 
 - 🔭 I'm working at Thought Machine as a Backend Engineer, on our cloud-native core banking platform building Internal Applications
-- 🎄 Every December I enjoy trying to solve the [Advent of Code](https://adventofcode.com/) challenges. You can find my solutions for 2020 (in Go) [here](https://github.com/orfeasa/advent-of-code-2020) and for 2021 (in Python) [here](https://github.com/orfeasa/advent-of-code-2021)
+- 🎄 Every December I enjoy trying to solve the [Advent of Code](https://adventofcode.com/) challenges. You can find my solutions here:
+  - [2022 in Python](https://github.com/orfeasa/advent-of-code-2022)
+  - [2021 in Python](https://github.com/orfeasa/advent-of-code-2021)
+  - [2020 in Go](https://github.com/orfeasa/advent-of-code-2020) 
 
 
 <!--
