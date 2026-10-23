@@ -1,8 +1,8 @@
 ![Hi 👋, I'm Orfeas](https://raw.githubusercontent.com/orfeasa/orfeasa/master/header.png)
 
 
-- 🔭 I'm working at Thought Machine as an Engineering Manager, on our cloud-native core banking platform building Internal Applications
-- 🎄 Every December I enjoy trying to solve the [Advent of Code](https://adventofcode.com/) challenges. You can find my solutions here:
+- 🔭 I'm an Engineering Manager at Thought Machine (London), leading a team building and operating cloud-native core banking services.
+- 🎄 In the past, every December I enjoyed trying to solve the [Advent of Code](https://adventofcode.com/) challenges. You can find my solutions here:
   - [2022 in Python](https://github.com/orfeasa/advent-of-code-2022)
   - [2021 in Python](https://github.com/orfeasa/advent-of-code-2021)
   - [2020 in Go](https://github.com/orfeasa/advent-of-code-2020) 
