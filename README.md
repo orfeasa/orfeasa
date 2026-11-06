@@ -7,5 +7,4 @@ I'm an Engineering Manager at Thought Machine in London. I lead a team that buil
 ## A few things I've built
 
 - [Limited Field Guides](https://limited.orfeasa.com/) is a practice tool for Magic: The Gathering, with card-rating drills and decisions from real drafts. [Source code](https://github.com/orfeasa/mtg-limited-guides)
-- On [my personal site](https://orfeasa.com/), you can pull the moustache off my portrait and throw it around the page. The site runs on plain HTML, CSS and JavaScript.
 - My Advent of Code solutions are in [Go (2020)](https://github.com/orfeasa/advent-of-code-2020) and Python ([2021](https://github.com/orfeasa/advent-of-code-2021), [2022](https://github.com/orfeasa/advent-of-code-2022)).
