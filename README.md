@@ -1,24 +1,11 @@
-![Hi 👋, I'm Orfeas](https://raw.githubusercontent.com/orfeasa/orfeasa/master/header.png)
+# Hi, I'm Orfeas. <img src="https://orfeasa.com/favicon/icon-32.png" width="26" height="26" alt="">
 
+I'm an Engineering Manager at Thought Machine in London. I lead a team that builds and operates core banking services in Vault Core. My background is in backend and distributed systems, mostly in Go and Python.
 
-- 🔭 I'm an Engineering Manager at Thought Machine (London), leading a team building and operating cloud-native core banking services.
-- 🎄 In the past, every December I enjoyed trying to solve the [Advent of Code](https://adventofcode.com/) challenges. You can find my solutions here:
-  - [2022 in Python](https://github.com/orfeasa/advent-of-code-2022)
-  - [2021 in Python](https://github.com/orfeasa/advent-of-code-2021)
-  - [2020 in Go](https://github.com/orfeasa/advent-of-code-2020) 
+[More about me](https://orfeasa.com/about.html) · [LinkedIn](https://www.linkedin.com/in/orfeasa/)
 
+## A few things I've built
 
-<!--
-**orfeasa/orfeasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Limited Field Guides](https://limited.orfeasa.com/) is a practice tool for Magic: The Gathering, with card-rating drills and decisions from real drafts. [Source code](https://github.com/orfeasa/mtg-limited-guides)
+- On [my personal site](https://orfeasa.com/), you can pull the moustache off my portrait and throw it around the page. The site runs on plain HTML, CSS and JavaScript.
+- My Advent of Code solutions are in [Go (2020)](https://github.com/orfeasa/advent-of-code-2020) and Python ([2021](https://github.com/orfeasa/advent-of-code-2021), [2022](https://github.com/orfeasa/advent-of-code-2022)).
